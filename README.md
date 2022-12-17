@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @larkben
-- 👀 I’m interested in blockchain and web development. I like playing video games and would someday like to make a game.
-- 🌱 I’m currently learning C++ in college and focusing on learning object orientated programming (OOP).
-- 💞️ I’m looking to collaborate on a small game or any program that interests me with friends or peers at college or in my field.
-- 📫 How to reach me; just send me an email at spartinofarrows@gmail.com or tweet me @BenLarkey on Twitter thanks!
-
-<!---
-larkben/larkben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1> Hi, my name Benjamin or Ben <i> for short </i> </h1>
+<h2> Skills: </h2>
+<p> C++ <p/>
+<h2> Skills interested in and in practice: </h2>
+<p> Rust, Full Stack Development, Game Development </p>
+<p> <i> also in this order :) </p>
+<h2> Education and Expierence: </h2>
+<p> (2017 - present) Building computers for people and solving computer harddware and software related issues :: learned the inner workings of computers as well as bios features, cable management and the best practices while building </p>
+<p> (2019 - present) Freelance consultant for American Family Web Insurance Referalls :: learned how to setup websites and deliver content that aggregates back to the company as leads </p>
+<p> (2020 - 2022) Associates in Computer Info Track @ Sauk Valley Community College :: learned how to program in the language c++ at a high level, still continuing today; learned practical applications of linked lists , algorithm time (big O notation) and lots more. </p>
