@@ -1,6 +1,5 @@
 <h1> Hi, my name Benjamin or Ben <i> for short </i> </h1>
-<h2> Skills: </h2>
-<p> C++ , Python, Javascript, HTML, and some Javascript Frameworks <p/>
-<h2> Skills interested in and in practice: </h2>
-<p> Rust, Full Stack Development, Software Development </p>
-<p> <i> also in this order :) </p>
+<br>
+<h2> <a href="https://www.britannica.com/animal/crab"> I love rust </a>. </h3>
+<br> 
+<h2> I also love all things blockchain and AI. I like making applications and building guis. I generally just love watching people use my applications. </h2>
