@@ -26,7 +26,7 @@ BeeLink Mini PC 5600U 16gb
 
 ```
 CPU: 13700k
-RAM: 32gb 6000mhz
+RAM: 64gb 6000mhz
 GPU: RTX 4090
 STORAGE: M.2 2tb
 ```
