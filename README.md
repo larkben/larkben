@@ -6,9 +6,6 @@
 <h3> Web Development </h3>
 <h3> Databases </h3>
 
-# Who am I?
-<h3> The best way to describe myself is a computer science student who likes data and is interested in building financial technolgies and services across game development, blockchain, and just general or specialized software applications. </h3>
-
 # Setups
 <h3> Mobile: </h3>
 
