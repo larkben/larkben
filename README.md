@@ -6,6 +6,12 @@
 <h3> Web Development </h3>
 <h3> Databases </h3>
 
+# Donations (mostly coffee)
+```
+Bitcoin: bc1q7jffzv5rr58jkw9e6wnusdhg90h2wv4assjyyl
+Alephium: 16gAmGuCysLjGxHK8TUENkvhbqvwZRb6BabUbsxLYkSkd
+```
+
 # Setups
 <h3> Mobile: </h3>
 
