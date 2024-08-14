@@ -38,3 +38,13 @@ RAM: 64gb 6000mhz
 GPU: RTX 4090
 STORAGE: M.2 2tb + SSD 500gb
 ```
+
+<h3> University Rig: </h3>
+
+```
+OS: Windows (WSL) - Ubuntu
+CPU: 12700kf ~ gifted from a past roomate for free
+RAM: 32 gb 6000mhz
+GPU: RTX 4070 Super
+STORAGE: 1TB SSD + 250GB SDD
+```
