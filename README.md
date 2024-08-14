@@ -24,9 +24,8 @@ Macbook cannot be beaten, Ipad allows for creative problem solving solutions.
 <h3> Cloud Devices: </h3>
 
 ```
-Dell Optiplex 5040 - i56400 (Linux)
-
-Would like to build a custom low-power always on rig via SSH.
+Dell Optiplex 5070 (Alephium Node)
+BeeLink Mini PC Ryzen 5 6500U (SSH)
 ```
 
 <h3> Desktop Rig: </h3>
