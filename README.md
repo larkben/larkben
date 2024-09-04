@@ -24,8 +24,11 @@ Macbook cannot be beaten, Ipad allows for creative problem solving solutions.
 <h3> Cloud Devices: </h3>
 
 ```
-Dell Optiplex 5070 (Alephium Node)
-BeeLink Mini PC Ryzen 5 6500U (SSH)
+Coffee Table Rig
+----------------
+CPU: 3800x
+MEM: 16 GB
+GPU: 5700XT
 ```
 
 <h3> Desktop Rig: </h3>
