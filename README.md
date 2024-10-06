@@ -13,6 +13,5 @@
 
 ### Donations ~ mostly coffee and NVIDIA gpus :)
 ```
-Bitcoin: 3MZraJ3GfT7k9V7ZsZi3ZQ7XiZCJouQuyV
-Ethereum: 0x4A7bA5BB9d030311D03A344c21eC447aD663201d (erc20)
+Ethereum: 0x812d26886d79178B59041B4Fd143193337C5f173 (erc20)
 ```
