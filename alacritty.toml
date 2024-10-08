@@ -38,7 +38,7 @@ TERM = "alacritty"
 size = 15
 
 [font.normal]
-family = "Menlo"
+family = "Andale Mono"
 
 [[keyboard.bindings]]
 chars = "\u001BF"
