@@ -9,7 +9,7 @@
 `Big Data`
 
 ## Achievements
-<a href="https://alphaga.app"> ALPHaga NFT Marketplace <a/> ~ first NFT marketplace built on <a href="https://alephium.org"> Alephium <a/> supporting offers and designed to be feature rich. <br/>
+<a href="https://alphaga.app"> ALPHaga NFT Marketplace <a/> ~ built the smart contracts for the first NFT marketplace built on <a href="https://alephium.org"> Alephium <a/> supporting offers and designed to be feature rich. <br/>
 
 ### Coffee
 ```
