@@ -14,5 +14,4 @@
 ### Coffee
 ```
 Ethereum: 0x812d26886d79178B59041B4Fd143193337C5f173 (erc20)
-Bittensor: 5H1VVkVNZSBjEdZUbCeogUkkZEfEuwxv8fPDGBJBodTH77KZ (tao)
 ```
