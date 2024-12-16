@@ -8,9 +8,7 @@
 
 ## Working on?
 
-- [ ] python and pytorch
-- [ ] bittensor
-- [ ] web development
+- [ ] web development / application development
 - [ ] smart contracts
 
 ## Achievements
