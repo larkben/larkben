@@ -2,7 +2,7 @@
 
 ## Specializations
 
-`C++` <br/>
+`Intermediate C++` <br/>
 `Smart Contracts` <br/>
 `Computer Hardware` <br/>
 
@@ -11,7 +11,7 @@
 - [ ] smart contracts
 - [ ] htmx (Hypermedia)
 - [ ] php
-- [ ] re-learning c++
+- [ ] mastering c++
 
 ## Achievements
 <a href="https://alphaga.app"> ALPHaga NFT Marketplace <a/> ~ built the smart contracts for the first NFT marketplace built on <a href="https://alephium.org"> Alephium <a/> supporting offers and designed to be feature rich. <br/>
