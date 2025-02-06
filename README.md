@@ -1,5 +1,7 @@
 # Hi, my name Benjamin and I like to code.
 
+<i> We have no Great War, no Great Depression. Our Great War is a spiritual war. Our great depression is our lives. </i>
+
 ## Specializations
 
 `Intermediate C++` <br/>
