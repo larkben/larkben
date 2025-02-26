@@ -30,5 +30,6 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 - <a href="https://htmx.org/"> HTMX </a> ~ I sort of dislike the complexity associated with JS/TS frameworks and enjoyed the PHP work I was doing at University 
 - Clean Code
 - Uniswap V4 Protocol Documentation
+- https://aave.com/docs/primitives/reserve
 
 
