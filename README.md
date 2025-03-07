@@ -10,8 +10,11 @@
 
 ## Working on?
 
-- [ ] smart contracts
-- [ ] finance
+- smart contracts
+- finance
+- rust-lang
+- bevy
+- personal site
       
 ## Achievements
 
@@ -19,12 +22,9 @@ Bachelors and Associates in Computer Science ~ Majoring in Software Development;
 
 Epic Bridges Certified ~ Certified in Epic Bridges where my current role is being an Epic Applications Analyst <br/>
 
-## Reading or want to Read
+## What I am playing and or Watching
 
-- <a href="https://www.fullstackpython.com/"> Full Stack Python <a/> ~ with the intent to build something with htmx
-- <a href="https://htmx.org/"> HTMX </a> ~ I sort of dislike the complexity associated with JS/TS frameworks and enjoyed the PHP work I was doing at University 
-- Clean Code
-- Uniswap V4 Protocol Documentation
-- https://aave.com/docs/primitives/reserve
+- Marvels Rivals (alpacabenjamin)
+- Zero Day ( 7 / 10 )
 
 
