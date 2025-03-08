@@ -22,7 +22,7 @@ Bachelors and Associates in Computer Science ~ Majoring in Software Development;
 
 Epic Bridges Certified ~ Certified in Epic Bridges where my current role is being an Epic Applications Analyst <br/>
 
-## What I am playing and or Watching
+## What I am `playing` and or `watching`
 
 - Marvels Rivals (alpacabenjamin)
 - Zero Day ( 7 / 10 )
