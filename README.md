@@ -28,4 +28,10 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 - Kingdom Come: Deliverance II `a blas' fortuna awaits`
 - Zero Day ( 7 / 10 )
 
+## BITTENSOR / AI Enthusiast
+
+'5GseA8jbzKgisGzXoGwr5TeUp8bFbYFcy7aZWceHfLwDKw8T'
+
+
+
 
