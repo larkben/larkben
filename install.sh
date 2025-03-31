@@ -63,3 +63,4 @@ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 # tmux
 # neovim
 # etc ... <nerdFont>
+# 5GseA8jbzKgisGzXoGwr5TeUp8bFbYFcy7aZWceHfLwDKw8T (tao)
