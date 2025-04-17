@@ -55,12 +55,9 @@ deno --version
 # Rust Install Script
 curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 
-# Possible Additions
+# Possible Additions                                                                                                                            
 
-# docker install script
-# node / npm <> deno
-# alephium devnet
-# tmux
+# docker insta
 # neovim
 # etc ... <nerdFont>
 # 5GseA8jbzKgisGzXoGwr5TeUp8bFbYFcy7aZWceHfLwDKw8T (tao)
