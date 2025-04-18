@@ -1,6 +1,6 @@
 # Hi, my name Benjamin and I like to code.
 
-<i> Coder | Fight Club Member | Lifelong love of learning </i>
+<i> Coder | Fight Club Member | Lifelong love of learning | Sicario </i>
 
 ## Specializations
 
@@ -13,8 +13,8 @@
 - smart contracts
 - finance
 - rust-lang
-- bevy
-- personal site
+- personal site / blog
+- web-stack
       
 ## Achievements
 
@@ -26,8 +26,6 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 
 - Marvels Rivals (alpacabenjamin)
 - Kingdom Come: Deliverance II `a blas' fortuna awaits`
-- Zero Day ( 7 / 10 )
-- Sicario ( 10 / 10 )
 
 
 
