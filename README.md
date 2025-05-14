@@ -11,10 +11,10 @@
 ## Working on?
 
 - smart contracts
-- finance
-- rust-lang
-- personal site / blog
-- web-stack
+- dTao (96, 2, 3)
+- full-webstack engineering
+- financial math
+- cryptography
       
 ## Achievements
 
@@ -25,7 +25,10 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 ## What I am `playing` and or `watching`
 
 - Marvels Rivals (alpacabenjamin)
+- Apex Legends (spartinofarrows)
 - Kingdom Come: Deliverance II `a blas' fortuna awaits`
+- The Bear
+- GTA (just driving)
 
 
 
