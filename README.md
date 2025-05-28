@@ -11,10 +11,10 @@
 ## Working on?
 
 - smart contracts
-- dTao (96, 2, 3)
 - full-webstack engineering
 - financial math
 - cryptography
+- c/c++
       
 ## Achievements
 
@@ -28,7 +28,6 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 - Apex Legends (spartinofarrows)
 - Kingdom Come: Deliverance II `a blas' fortuna awaits`
 - The Bear
-- GTA (just driving)
 
 
 
