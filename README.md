@@ -25,7 +25,7 @@ Epic Bridges Certified ~ Certified in Epic Bridges where my current role is bein
 ## What I am `playing` and or `watching`
 
 - Marvels Rivals (alpacabenjamin) ~ not recently
-- Apex Legends (spartinofarrows) if banned then (alpacabenjamin)
+- Apex Legends (spartinofarrows) if on suspension then (alpacabenjamin)
 - Kingdom Come: Deliverance II `a blas' fortuna awaits`
 - The Bear | Friends | Stranger Things
 - Pending: GTA 6 | Borderlands 4
