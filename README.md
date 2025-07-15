@@ -12,9 +12,7 @@
 
 - smart contracts
 - full-webstack engineering
-- financial math
-- cryptography
-- c/c++
+- rust lang
       
 ## Achievements
 
