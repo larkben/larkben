@@ -13,6 +13,7 @@
 - smart contracts
 - full-webstack engineering
 - rust lang
+- https://github.com/AbdesamedBendjeddou/Rusty-CS?tab=readme-ov-file#introduction
       
 ## Achievements
 
